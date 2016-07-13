@@ -1,0 +1,8 @@
+C:\Soft\convert4.exe
+C:\Soft\teqc.exe
+C:\Soft\converter.bat
+F:\new\
+C:\Soft\Journal.txt
+F:\rinex\
+F:\log\
+F:\gps\

@@ -1,0 +1,10 @@
+option batch abort
+option confirm off
+
+# open ftp connection
+open sftp://user:password@ip
+
+# synchronize files from server
+synchronize remote -criteria=time "F:\rinex" "/var/www/html/storage/files"  
+
+exit

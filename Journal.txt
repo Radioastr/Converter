@@ -1,0 +1,7 @@
+
+2016-07-13 06:00:06
+C:\Soft\teqc.exe F:\new\160712_ksu.gps.log > F:\rinex\2016\16.07.12\160712_ksu.gps.obs
+F:\new\160712_ksu.gps > F:\rinex\2016\16.07.12\160712_ksu.16O
+F:\new\160712_ksu.gps конвертирован и перемещен в F:\rinex\2016\16.07.12\160712_ksu.16O
+F:\log\160712_ksu.gps.log
+F:\gps\160712_ksu.gps
